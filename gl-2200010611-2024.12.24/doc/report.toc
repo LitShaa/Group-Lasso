@@ -1,0 +1,13 @@
+\contentsline {section}{\numberline {1}问题描述}{2}{section.1}%
+\contentsline {section}{\numberline {2}问题分析及相应结果}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}问题1}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}问题2}{2}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}问题3.（a）}{3}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}问题3.（b）}{5}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}问题3（c），3（d）}{5}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}问题3（e）}{7}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}问题3（f）}{8}{subsection.2.7}%
+\contentsline {subsection}{\numberline {2.8}问题3（g）}{9}{subsection.2.8}%
+\contentsline {section}{\numberline {3}结果汇总}{10}{section.3}%
+\contentsline {subsection}{\numberline {3.1}总表}{10}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}各结果的可视化分析}{10}{subsection.3.2}%
